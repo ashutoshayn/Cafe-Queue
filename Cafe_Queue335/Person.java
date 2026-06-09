@@ -5,8 +5,8 @@
  */
 public class Person
 {
-   public String name;
-   public boolean isTeacher;
+   private String name;
+   private boolean isTeacher;
    
    public Person(String name, boolean isTeacher){
        this.name = name;

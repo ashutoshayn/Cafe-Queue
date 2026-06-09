@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CafeQueue
+comment1.params=
+comment1.target=CafeQueue()
+comment2.params=
+comment2.target=boolean\ queueEmpty()
+comment3.params=person
+comment3.target=void\ enqueue(Person)
+comment4.params=
+comment4.target=Person\ dequeue()
+comment5.params=
+comment5.target=java.util.ArrayList\ getQueue()
+numComments=6
